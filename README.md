@@ -22,6 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
 
 ## how to use GitHub Desktop
 ## how to use git revert
+=======
+>>>>>>> parent of b89089e... ikeda
